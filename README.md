@@ -1,4 +1,3 @@
-<pre align="center">
-  <h3> ✨ Hello, I'm CMB! </h3>
-  ⭐ I like programming, drawing and occasionally compose music ⭐
-</pre>
+<h3 align="center"> ✨ Hello, I'm CMB! </h3>
+<p align="center">  ⭐ I like programming, drawing and occasionally compose music ⭐ </p>
+
